@@ -26,7 +26,7 @@ export default function Home() {
       <div className="w-full max-w-5xl bg-white rounded-2xl shadow-xl p-6">
         
         <h1 className="text-3xl font-bold mb-6 text-center text-gray-800">
-          🤖 AI Code Comments Generator
+           AI Documentation Generator
         </h1>
 
         {/* STYLE SELECT */}
